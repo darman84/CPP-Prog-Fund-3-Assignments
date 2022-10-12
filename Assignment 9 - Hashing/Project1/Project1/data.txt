@@ -1,0 +1,24 @@
+Jimmy Carter
+1924
+Democratic
+4
+Ronald Reagan
+1911
+Republican
+8
+George H. W. Bush
+1924
+Republican
+4
+Bill Clinton
+1946
+Democratic
+8
+Barack Obama
+1961
+Democratic
+8
+Gerald Ford
+1913
+Republican
+4

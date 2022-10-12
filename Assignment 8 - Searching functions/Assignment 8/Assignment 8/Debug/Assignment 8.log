@@ -1,0 +1,4 @@
+﻿  MainProgram.cpp
+j:\cosc 2336 projects\assignment8\prog6\mainprogram.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+j:\cosc 2336 projects\assignment8\prog6\mainprogram.cpp(29): warning C4101: 'num': unreferenced local variable
+  Assignment 8.vcxproj -> J:\Cosc 2336 Projects\Assignment8\Assignment 8\Debug\Assignment 8.exe

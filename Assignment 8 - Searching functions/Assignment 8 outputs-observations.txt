@@ -1,0 +1,13 @@
+----------------PROG 1 OUTPUT----------------
+The list has 1000 random items, which will not be printed to the console
+Enter search item: 999
+
+Recursive sequential search result:
+Item found at 548
+1198 microseconds elapsed
+Sequential search result:
+Item found at 548
+218 microseconds elapsed
+Press any key to continue . . .
+---------------Prog 1 OUTPUT END-------------
+I noticed that after running the program several times with different search values, sequential search consistently gave better performance

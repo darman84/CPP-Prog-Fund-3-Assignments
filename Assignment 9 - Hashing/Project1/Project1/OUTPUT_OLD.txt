@@ -1,0 +1,607 @@
+Processing data
+0  1  State name: Kansas
+Capital name: Topeka
+Area: 82264
+Year of admission: 1861
+Order of admission: 34
+
+3  1  State name: Alabama
+Capital name: Montgomery
+Area: 51609
+Year of admission: 1819
+Order of admission: 22
+
+5  1  State name: Washington
+Capital name: Olympia
+Area: 68192
+Year of admission: 1889
+Order of admission: 42
+
+9  1  State name: South Dakota
+Capital name: Pierre
+Area: 77047
+Year of admission: 1889
+Order of admission: 39
+
+10  1  State name: Michigan
+Capital name: Lansing
+Area: 58216
+Year of admission: 1837
+Order of admission: 26
+
+11  1  State name: Nebraska
+Capital name: Lincoln
+Area: 77227
+Year of admission: 1867
+Order of admission: 37
+
+13  1  State name: North Carolina
+Capital name: Raleigh
+Area: 52586
+Year of admission: 1789
+Order of admission: 12
+
+14  1  State name: Kentuckey
+Capital name: Frankfort
+Area: 40395
+Year of admission: 1792
+Order of admission: 15
+
+17  1  State name: Alaska
+Capital name: Juneau
+Area: 586412
+Year of admission: 1959
+Order of admission: 49
+
+18  1  State name: Mississippi
+Capital name: Jackson
+Area: 47716
+Year of admission: 1817
+Order of admission: 20
+
+19  1  State name: Vermont
+Capital name: Montpelier
+Area: 9609
+Year of admission: 1791
+Order of admission: 14
+
+20  1  State name: Texas
+Capital name: Austin
+Area: 267338
+Year of admission: 1845
+Order of admission: 28
+
+22  1  State name: Tennessee
+Capital name: Nashville
+Area: 42244
+Year of admission: 1796
+Order of admission: 16
+
+23  1  State name: Louisiana
+Capital name: Baton Rouge
+Area: 48523
+Year of admission: 1812
+Order of admission: 18
+
+24  1  State name: Arkansas
+Capital name: Little Rock
+Area: 53104
+Year of admission: 1836
+Order of admission: 25
+
+25  1  State name: South Carolina
+Capital name: Columbia
+Area: 31055
+Year of admission: 1788
+Order of admission: 8
+
+27  1  State name: Connecticut
+Capital name: Hartford
+Area: 5009
+Year of admission: 1788
+Order of admission: 5
+
+28  1  State name: Pennsylvania
+Capital name: Harrisburg
+Area: 45333
+Year of admission: 1787
+Order of admission: 2
+
+29  1  State name: Iowa
+Capital name: Des Moines
+Area: 56290
+Year of admission: 1846
+Order of admission: 29
+
+30  1  State name: Wyoming
+Capital name: Cheyenne
+Area: 97914
+Year of admission: 1890
+Order of admission: 44
+
+33  1  State name: Virginia
+Capital name: Richmond
+Area: 40815
+Year of admission: 1788
+Order of admission: 10
+
+38  1  State name: Wisconsin
+Capital name: Madison
+Area: 56154
+Year of admission: 1848
+Order of admission: 30
+
+41  1  State name: Oregon
+Capital name: Salem
+Area: 96981
+Year of admission: 1859
+Order of admission: 33
+
+42  1  State name: Colorado
+Capital name: Denver
+Area: 104247
+Year of admission: 1876
+Order of admission: 38
+
+45  1  State name: West Virginia
+Capital name: Charleston
+Area: 24181
+Year of admission: 1863
+Order of admission: 35
+
+47  1  State name: New York
+Capital name: Albany
+Area: 49576
+Year of admission: 1788
+Order of admission: 11
+
+51  1  State name: Nevada
+Capital name: Carson City
+Area: 110540
+Year of admission: 1864
+Order of admission: 36
+
+52  1  State name: Montana
+Capital name: Helena
+Area: 147138
+Year of admission: 1889
+Order of admission: 41
+
+54  1  State name: Utah
+Capital name: Sakt Lake City
+Area: 84916
+Year of admission: 1896
+Order of admission: 45
+
+55  1  State name: Maine
+Capital name: Augusta
+Area: 33215
+Year of admission: 1820
+Order of admission: 23
+
+56  1  State name: Hawaii
+Capital name: Honolulu
+Area: 6450
+Year of admission: 1959
+Order of admission: 50
+
+57  1  State name: New Jersey
+Capital name: Trenton
+Area: 7836
+Year of admission: 1787
+Order of admission: 3
+
+59  1  State name: Oklahoma
+Capital name: Oklahoma City
+Area: 69919
+Year of admission: 1907
+Order of admission: 46
+
+62  1  State name: Delaware
+Capital name: Dover
+Area: 2057
+Year of admission: 1787
+Order of admission: 1
+
+63  1  State name: Ohio
+Capital name: Columbus
+Area: 41222
+Year of admission: 1803
+Order of admission: 17
+
+66  1  State name: Georgia
+Capital name: Atlanta
+Area: 58876
+Year of admission: 1788
+Order of admission: 4
+
+70  1  State name: Arizona
+Capital name: Phoenix
+Area: 113909
+Year of admission: 1912
+Order of admission: 48
+
+72  1  State name: Maryland
+Capital name: Annapolis
+Area: 10577
+Year of admission: 1788
+Order of admission: 7
+
+77  1  State name: Missouri
+Capital name: Jefferson City
+Area: 69686
+Year of admission: 1821
+Order of admission: 24
+
+78  1  State name: Idaho
+Capital name: Boise
+Area: 83557
+Year of admission: 1890
+Order of admission: 43
+
+80  1  State name: Florida
+Capital name: Tallahassee
+Area: 58560
+Year of admission: 1845
+Order of admission: 27
+
+81  1  State name: New Mexico
+Capital name: Santa Fe
+Area: 121666
+Year of admission: 1912
+Order of admission: 47
+
+84  1  State name: Illinois
+Capital name: Springfield
+Area: 56400
+Year of admission: 1818
+Order of admission: 21
+
+87  1  State name: Minnesota
+Capital name: Saint Paul
+Area: 84068
+Year of admission: 1858
+Order of admission: 32
+
+88  1  State name: Indiana
+Capital name: Indianapolis
+Area: 36291
+Year of admission: 1816
+Order of admission: 19
+
+90  1  State name: New Hampshire
+Capital name: Concord
+Area: 9304
+Year of admission: 1788
+Order of admission: 9
+
+95  1  State name: Rhode Island
+Capital name: Providence
+Area: 1214
+Year of admission: 1790
+Order of admission: 13
+
+96  1  State name: Massachusetts
+Capital name: Boston
+Area: 8257
+Year of admission: 1788
+Order of admission: 6
+
+97  1  State name: California
+Capital name: Sacramento
+Area: 158706
+Year of admission: 1850
+Order of admission: 31
+
+98  1  State name: North Dakota
+Capital name: Bismark
+Area: 70665
+Year of admission: 1889
+Order of admission: 41
+
+Enter the name of the state to be searched: California
+
+Item found in the list
+Enter the name of the state to be deleted: California
+
+0  1  State name: Kansas
+Capital name: Topeka
+Area: 82264
+Year of admission: 1861
+Order of admission: 34
+
+3  1  State name: Alabama
+Capital name: Montgomery
+Area: 51609
+Year of admission: 1819
+Order of admission: 22
+
+5  1  State name: Washington
+Capital name: Olympia
+Area: 68192
+Year of admission: 1889
+Order of admission: 42
+
+9  1  State name: South Dakota
+Capital name: Pierre
+Area: 77047
+Year of admission: 1889
+Order of admission: 39
+
+10  1  State name: Michigan
+Capital name: Lansing
+Area: 58216
+Year of admission: 1837
+Order of admission: 26
+
+11  1  State name: Nebraska
+Capital name: Lincoln
+Area: 77227
+Year of admission: 1867
+Order of admission: 37
+
+13  1  State name: North Carolina
+Capital name: Raleigh
+Area: 52586
+Year of admission: 1789
+Order of admission: 12
+
+14  1  State name: Kentuckey
+Capital name: Frankfort
+Area: 40395
+Year of admission: 1792
+Order of admission: 15
+
+17  1  State name: Alaska
+Capital name: Juneau
+Area: 586412
+Year of admission: 1959
+Order of admission: 49
+
+18  1  State name: Mississippi
+Capital name: Jackson
+Area: 47716
+Year of admission: 1817
+Order of admission: 20
+
+19  1  State name: Vermont
+Capital name: Montpelier
+Area: 9609
+Year of admission: 1791
+Order of admission: 14
+
+20  1  State name: Texas
+Capital name: Austin
+Area: 267338
+Year of admission: 1845
+Order of admission: 28
+
+22  1  State name: Tennessee
+Capital name: Nashville
+Area: 42244
+Year of admission: 1796
+Order of admission: 16
+
+23  1  State name: Louisiana
+Capital name: Baton Rouge
+Area: 48523
+Year of admission: 1812
+Order of admission: 18
+
+24  1  State name: Arkansas
+Capital name: Little Rock
+Area: 53104
+Year of admission: 1836
+Order of admission: 25
+
+25  1  State name: South Carolina
+Capital name: Columbia
+Area: 31055
+Year of admission: 1788
+Order of admission: 8
+
+27  1  State name: Connecticut
+Capital name: Hartford
+Area: 5009
+Year of admission: 1788
+Order of admission: 5
+
+28  1  State name: Pennsylvania
+Capital name: Harrisburg
+Area: 45333
+Year of admission: 1787
+Order of admission: 2
+
+29  1  State name: Iowa
+Capital name: Des Moines
+Area: 56290
+Year of admission: 1846
+Order of admission: 29
+
+30  1  State name: Wyoming
+Capital name: Cheyenne
+Area: 97914
+Year of admission: 1890
+Order of admission: 44
+
+33  1  State name: Virginia
+Capital name: Richmond
+Area: 40815
+Year of admission: 1788
+Order of admission: 10
+
+38  1  State name: Wisconsin
+Capital name: Madison
+Area: 56154
+Year of admission: 1848
+Order of admission: 30
+
+41  1  State name: Oregon
+Capital name: Salem
+Area: 96981
+Year of admission: 1859
+Order of admission: 33
+
+42  1  State name: Colorado
+Capital name: Denver
+Area: 104247
+Year of admission: 1876
+Order of admission: 38
+
+45  1  State name: West Virginia
+Capital name: Charleston
+Area: 24181
+Year of admission: 1863
+Order of admission: 35
+
+47  1  State name: New York
+Capital name: Albany
+Area: 49576
+Year of admission: 1788
+Order of admission: 11
+
+51  1  State name: Nevada
+Capital name: Carson City
+Area: 110540
+Year of admission: 1864
+Order of admission: 36
+
+52  1  State name: Montana
+Capital name: Helena
+Area: 147138
+Year of admission: 1889
+Order of admission: 41
+
+54  1  State name: Utah
+Capital name: Sakt Lake City
+Area: 84916
+Year of admission: 1896
+Order of admission: 45
+
+55  1  State name: Maine
+Capital name: Augusta
+Area: 33215
+Year of admission: 1820
+Order of admission: 23
+
+56  1  State name: Hawaii
+Capital name: Honolulu
+Area: 6450
+Year of admission: 1959
+Order of admission: 50
+
+57  1  State name: New Jersey
+Capital name: Trenton
+Area: 7836
+Year of admission: 1787
+Order of admission: 3
+
+59  1  State name: Oklahoma
+Capital name: Oklahoma City
+Area: 69919
+Year of admission: 1907
+Order of admission: 46
+
+62  1  State name: Delaware
+Capital name: Dover
+Area: 2057
+Year of admission: 1787
+Order of admission: 1
+
+63  1  State name: Ohio
+Capital name: Columbus
+Area: 41222
+Year of admission: 1803
+Order of admission: 17
+
+66  1  State name: Georgia
+Capital name: Atlanta
+Area: 58876
+Year of admission: 1788
+Order of admission: 4
+
+70  1  State name: Arizona
+Capital name: Phoenix
+Area: 113909
+Year of admission: 1912
+Order of admission: 48
+
+72  1  State name: Maryland
+Capital name: Annapolis
+Area: 10577
+Year of admission: 1788
+Order of admission: 7
+
+77  1  State name: Missouri
+Capital name: Jefferson City
+Area: 69686
+Year of admission: 1821
+Order of admission: 24
+
+78  1  State name: Idaho
+Capital name: Boise
+Area: 83557
+Year of admission: 1890
+Order of admission: 43
+
+80  1  State name: Florida
+Capital name: Tallahassee
+Area: 58560
+Year of admission: 1845
+Order of admission: 27
+
+81  1  State name: New Mexico
+Capital name: Santa Fe
+Area: 121666
+Year of admission: 1912
+Order of admission: 47
+
+84  1  State name: Illinois
+Capital name: Springfield
+Area: 56400
+Year of admission: 1818
+Order of admission: 21
+
+87  1  State name: Minnesota
+Capital name: Saint Paul
+Area: 84068
+Year of admission: 1858
+Order of admission: 32
+
+88  1  State name: Indiana
+Capital name: Indianapolis
+Area: 36291
+Year of admission: 1816
+Order of admission: 19
+
+90  1  State name: New Hampshire
+Capital name: Concord
+Area: 9304
+Year of admission: 1788
+Order of admission: 9
+
+95  1  State name: Rhode Island
+Capital name: Providence
+Area: 1214
+Year of admission: 1790
+Order of admission: 13
+
+96  1  State name: Massachusetts
+Capital name: Boston
+Area: 8257
+Year of admission: 1788
+Order of admission: 6
+
+97  -1  State name: California
+Capital name: Sacramento
+Area: 158706
+Year of admission: 1850
+Order of admission: 31
+
+98  1  State name: North Dakota
+Capital name: Bismark
+Area: 70665
+Year of admission: 1889
+Order of admission: 41
+
+Press any key to continue . . .
