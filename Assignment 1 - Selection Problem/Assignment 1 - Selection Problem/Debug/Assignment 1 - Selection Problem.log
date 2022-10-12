@@ -1,0 +1,4 @@
+﻿  Assignment1.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+Assignment1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  Assignment 1 - Selection Problem.vcxproj -> J:\Cosc 2336 Projects\Assignment 1 - Selection Problem\Debug\Assignment 1 - Selection Problem.exe

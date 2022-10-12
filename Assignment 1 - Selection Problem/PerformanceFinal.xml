@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+ xmlns:udc="http://schemas.microsoft.com/data/udc"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>zachary81</Author>
+  <LastAuthor>zachary81</LastAuthor>
+  <Created>2019-09-05T18:00:32Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12375</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#4472C4" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#4472C4" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="9" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:Width="108.75"/>
+   <Column ss:Width="34.5"/>
+   <Column ss:Width="31.5"/>
+   <Column ss:Width="186"/>
+   <Column ss:Width="66.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="57.75" ss:Span="1"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">n=9</Data></Cell>
+    <Cell><Data ss:Type="String">ProcessThreadType</Data></Cell>
+    <Cell><Data ss:Type="String">UID</Data></Cell>
+    <Cell><Data ss:Type="String">ID</Data></Cell>
+    <Cell><Data ss:Type="String">ProcThreadName</Data></Cell>
+    <Cell><Data ss:Type="String">BeginTime</Data></Cell>
+    <Cell><Data ss:Type="String">EndTime</Data></Cell>
+    <Cell><Data ss:Type="String">LifeTime</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">Process</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">24480</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Assignment 1 - Selection Problem.exe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5.96</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5.96</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">Thread</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">22952</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Unnamed thread</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0.22</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5.82</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">n=20</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ProcessThreadType</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UID</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ProcThreadName</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BeginTime</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">EndTime</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LifeTime</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">Process</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">17404</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Assignment 1 - Selection Problem.exe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8.55</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8.55</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">Thread</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">21516</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Unnamed thread</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0.2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8.28</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8.09</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">n=50</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ProcessThreadType</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">UID</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ProcThreadName</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">BeginTime</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">EndTime</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">LifeTime</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">Process</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">14320</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Assignment 1 - Selection Problem.exe</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">24.56</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">24.56</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">Thread</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">13832</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Unnamed thread</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">0.19</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">24.38</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">24.19</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x2:MapInfo x2:HideInactiveListBorder="false">
+  <x2:Schema x2:ID="Schema1" x2:Namespace=""><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"><xsd:element nillable="true" name="PerformanceReport"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" name="ProcessThreadSummary" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="ProcessThread" form="unqualified"><xsd:complexType><xsd:attribute name="ProcessThreadType" form="unqualified" type="xsd:string"></xsd:attribute><xsd:attribute name="UID" form="unqualified" type="xsd:string"></xsd:attribute><xsd:attribute name="ID" form="unqualified" type="xsd:string"></xsd:attribute><xsd:attribute name="ProcThreadName" form="unqualified" type="xsd:string"></xsd:attribute><xsd:attribute name="BeginTime" form="unqualified" type="xsd:string"></xsd:attribute><xsd:attribute name="EndTime" form="unqualified" type="xsd:string"></xsd:attribute><xsd:attribute name="LifeTime" form="unqualified" type="xsd:string"></xsd:attribute></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:schema></x2:Schema>
+  <x2:Map x2:ID="PerformanceReport_Map" x2:SchemaID="Schema1"
+   x2:RootElement="PerformanceReport">
+   <x2:Entry x2:Type="table" x2:ID="1" x2:ShowTotals="false">
+    <x2:Range>Sheet1!R2C2:R6C8</x2:Range>
+    <x2:HeaderRange>R1C2</x2:HeaderRange>
+    <x:FilterOn>True</x:FilterOn>
+    <x2:XPath>/PerformanceReport/ProcessThreadSummary/ProcessThread</x2:XPath>
+    <x2:Field x2:ID="ProcessThreadType">
+     <x2:Range>RC</x2:Range>
+     <x2:XPath>@ProcessThreadType</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="UID">
+     <x2:Range>RC[1]</x2:Range>
+     <x2:XPath>@UID</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ID">
+     <x2:Range>RC[2]</x2:Range>
+     <x2:XPath>@ID</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ProcThreadName">
+     <x2:Range>RC[3]</x2:Range>
+     <x2:XPath>@ProcThreadName</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="BeginTime">
+     <x2:Range>RC[4]</x2:Range>
+     <x2:XPath>@BeginTime</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="EndTime">
+     <x2:Range>RC[5]</x2:Range>
+     <x2:XPath>@EndTime</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="LifeTime">
+     <x2:Range>RC[6]</x2:Range>
+     <x2:XPath>@LifeTime</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+   </x2:Entry>
+  </x2:Map>
+ </x2:MapInfo>
+ <x2:Binding x2:ID="Binding1" x2:LoadMode="normal">
+  <x2:MapID>PerformanceReport_Map</x2:MapID>
+<udc:DataSource MajorVersion="1" MinorVersion="0" xmlns:udc="http://schemas.microsoft.com/data/udc">
+  <udc:Type Type="XMLFile" MajorVersion="1" MinorVersion="0"/>
+  <udc:Name>Binding1</udc:Name>
+  <udc:ConnectionInfo Purpose="Query">
+    <udcxf:File xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">J:\Cosc 2336 Projects\Assignment 1 - Selection Problem\PerformanceFinal.xml</udcxf:File>
+  </udc:ConnectionInfo>
+</udc:DataSource>
+ </x2:Binding>
+</Workbook>
