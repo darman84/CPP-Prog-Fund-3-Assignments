@@ -1,0 +1,4 @@
+https://www.mathblog.dk/tools/infix-postfix-converter/
+
+postfix calculator - dc
+https://sourceforge.net/projects/unxutils/
